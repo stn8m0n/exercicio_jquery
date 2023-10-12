@@ -27,6 +27,13 @@ form {
   display: none;
 }
 
+table th {
+  border-bottom: 2px solid #000;
+  padding: 16px;
+  font-size: 24px;
+  font-weight: bold;
+  }
+
 input, button {
   padding: 8px;
 }
