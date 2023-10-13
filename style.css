@@ -27,7 +27,7 @@ form {
   display: none;
 }
 
-table th {
+thead {
   border-bottom: 2px solid #000;
   padding: 16px;
   font-size: 24px;
